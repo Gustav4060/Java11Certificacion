@@ -1,2 +1,2 @@
-module java11 {
+module CertificacionJava11 {
 }
